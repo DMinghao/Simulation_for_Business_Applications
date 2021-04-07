@@ -1,3 +1,5 @@
+# Bottleneck
+
 Let $G$ = ($V$, $E$, $C$) be a directed acyclic multigraph that denotes the system's process flow (A multigraph is a graph that allows more than one edges to have the same endpoint)
 
 Let $V$ denotes a set of vertices, where $V \ni \{v_1, v_2, ... , v_n\}$ 
