@@ -1,4 +1,3 @@
-# Bottleneck
 
 Let $G$ = ($V$, $E$, $C$) be a directed acyclic multigraph that denotes the system's process flow (A multigraph is a graph that allows more than one edges to have the same endpoint)
 
